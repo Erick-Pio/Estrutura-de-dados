@@ -5,8 +5,12 @@ class Consultoria(
     var vagas:Int
 ) {
 
-    private val desenvolvedoress = mutableListOf<Desenvolvedor>()
+    private val desenvolvedores = mutableListOf<Desenvolvedor>()
 
-    fun existePorNome()
+    fun existePorNome(nome: String): Boolean{
+        return desenvolvedores.any { it.nome == nome }
+    }
+
+
 
 }
