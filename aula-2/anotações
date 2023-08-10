@@ -1,0 +1,26 @@
+Classe abstrata:
+    Não pode ser instanciada, apenas herdada
+    instanciar = criar um objeto
+    
+    Classe animal com atributos de animais é abstrata
+        classes herdeiras, como leão, cachorro, irão herdar essa classe animal, mas a classe animal nunca será instanciada
+    
+    Uma classe herdeira de uma classe abstrata pode ser herdeira de uma classe abstrata!
+
+    A classe abstrata pode ter métodos e atributos normalmente, a unica diferença é que ela nunca será instanciada
+
+    Mesmo a classe abstrata não sendo instanciada, ela pode ter um constructor!
+
+    Mesmo não instanciando conseguimos criar uma lista da classe abstrata e qualquer herdeiro dessa classe
+    poderá entrar nessa lista.
+    
+Metodo abstrato:
+    A classe abstrata pode ter metodos normais, como também ter métodos abstratos
+
+    Exemplo comunicar, todos os animais terão o metodo comunicar, porém como animais se comunicam de formas diferentes
+    a forma que será usado será diferente, ou seja, o método não terá o corpo do método, um método não implementado.
+
+    Classes concretas não pode ter método abstrato!
+
+    Método abstrato só faz sentido se o método funcionar de formas diferentes de acordo com a classe,
+    se o método se comportar da mesma forma sempre, não tem sentido ele ser abstrato.
