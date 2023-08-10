@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58dcdbc1-30f2-4b5c-a3ef-f4ae327e6604" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/src/main/kotlin/school/sptech/herancagregacao/Consultoria.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/src/main/kotlin/school/sptech/herancagregacao/Desenvolvedor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/src/main/kotlin/school/sptech/herancagregacao/DesenvolvedorMobile.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-consultoria/src/main/kotlin/school/sptech/herancagregacao/TesteConsultoria.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/src/main/kotlin/sptech/school/herancaprodutora/Ator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/src/main/kotlin/sptech/school/herancaprodutora/Produtora.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/src/main/kotlin/sptech/school/herancaprodutora/Protagonista.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../aula-1/heranca-agregacao-produtora/src/main/kotlin/sptech/school/herancaprodutora/TesteProdutora.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2TlnAEfZe1QKf8EWQF0euLSLQTe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58dcdbc1-30f2-4b5c-a3ef-f4ae327e6604" name="Changes" comment="" />
+      <created>1691626389440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691626389440</updated>
+    </task>
+    <servers />
+  </component>
+</project>
