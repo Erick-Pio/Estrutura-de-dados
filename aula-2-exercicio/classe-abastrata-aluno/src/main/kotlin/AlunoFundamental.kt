@@ -11,7 +11,7 @@ class AlunoFundamental(
     }
 
     override fun toString(): String {
-        return "AlunoFundamental(nota3=$nota3, nota4=$nota4 ${super.toString()})"
+        return "${super.toString()} $(nota3=$nota3, nota4=$nota4)"
     }
 
 
